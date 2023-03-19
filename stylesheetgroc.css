@@ -1,0 +1,49 @@
+h1 {
+background-image: url(https://midwestcommunity.org/wp-content/uploads/2018/02/Groceries-ThinkstockPhotos-836782690.jpg);
+background-size: contain;
+color: rgb(201, 220, 235);
+width: 100%;
+height: 100px;
+margin:10px, 10px, 10px, 10px ;
+text-align: center;
+}
+h2 {
+    background-color: rgb(94, 77, 75);
+    padding: 5px 5px 5px 5px;
+    border-radius: 10px;
+    border: 10px 10px 10px 10px;
+    font-family: 'Lucida Grande';
+}
+#object1 {
+    max-width: 30%;
+    max-height: 30%;
+    border-radius: 15%;
+    margin-top: 30px;
+    margin-bottom: 50px;
+    padding: 20px 20px 20px 20px;
+}
+#object2 {
+    max-width: 30%;
+    max-height: 30%;
+    border-radius: 15%;
+    margin-top: 30px;
+    margin-bottom: 50px;
+    padding: 20px 20px 20px 20px;
+    
+}
+    
+body {
+    font-family: sans-serif;
+}
+fieldset {
+    height: 33%;
+    width: 33%;
+    background-color: rgb(225, 214, 198);
+    padding: 15px 15px 15px 15px;
+    border: 5px 5px 5px 5px;
+    margin: 30px 30px 30px 30px;
+}
+
+article {
+    display: flex;
+}
